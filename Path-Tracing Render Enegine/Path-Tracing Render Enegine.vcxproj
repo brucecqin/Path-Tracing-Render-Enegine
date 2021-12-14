@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClInclude Include="imgui_impl_glfw.h" />
     <ClInclude Include="imgui_impl_opengl3.h" />
+    <ClInclude Include="mesh.h" />
+    <ClInclude Include="Model .h" />
+    <ClInclude Include="shader.h" />
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
